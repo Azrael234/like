@@ -1,0 +1,17 @@
+{
+    "Mysql_Host": "'$configip'",
+    "Mysql_Port": 3306,
+    "Mysql_User": "'$configuser'",
+    "Mysql_Password": "'$configpasswd'",
+    "Mysql_Db": "'$configuser'",
+    "Mysql_TLS": "false",
+    "Mysql_MaxOpenConns": 1000,
+    "Mysql_MaxIdleConns": 100,
+    "V2rayClientAddr": "127.0.0.1:8301",
+    "V2rayTag": "proxy",
+    "Email": "@test.com",
+    "AlterID": 64,
+    "Level": 1,
+    "CheckRate": 64
+    "Consumptionratio":'$multiple'
+}
