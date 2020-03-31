@@ -1,9 +1,9 @@
 {
-    "Mysql_Host": "'$configip'",
+    "Mysql_Host": "$configip",
     "Mysql_Port": 3306,
-    "Mysql_User": "'$configuser'",
-    "Mysql_Password": "'$configpasswd'",
-    "Mysql_Db": "'$configuser'",
+    "Mysql_User": "$configuser",
+    "Mysql_Password": "$configpasswd",
+    "Mysql_Db": "$configuser",
     "Mysql_TLS": "false",
     "Mysql_MaxOpenConns": 1000,
     "Mysql_MaxIdleConns": 100,
@@ -13,5 +13,5 @@
     "AlterID": 64,
     "Level": 1,
     "CheckRate": 64
-    "Consumptionratio":'$multiple'
+    "Consumptionratio":$multiple
 }
