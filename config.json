@@ -12,6 +12,6 @@
     "Email": "@test.com",
     "AlterID": 64,
     "Level": 1,
-    "CheckRate": 64
-    "Consumptionratio":$multiple
+    "CheckRate": 60,
+    "Consumptionratio": $multiple
 }
