@@ -60,7 +60,7 @@
         "type": "field",
         "outboundTag": "block", 
         "domain": [
-			"domain:epochtimes.com",
+          "domain:epochtimes.com",
           "domain:epochtimes.com.tw",
           "domain:epochtimes.fr",
           "domain:epochtimes.de",
@@ -70,7 +70,6 @@
           "domain:epochtimes.co.kr",
           "domain:epochtimes-romania.com",
           "domain:erabaru.net",
-		  "domain:bannedbook.org",
           "domain:lagranepoca.com",
           "domain:theepochtimes.com",
           "domain:ntdtv.com",
@@ -86,6 +85,13 @@
           "domain:ninecommentaries.com",
           "domain:360.cn",
           "domain:360.com",
+		  "domain:soundofhope.org",
+		  "domain:wenzhao.ca",
+		  "domain:jfengtime.com",
+		  "domain:falunaz.net",
+		  "domain:zhengjian.org",
+		  "domain:rfa.org",
+		  "domain:caijinglengyan.com",
           "domain:so.com",
           "domain:so.cn"
      ]
