@@ -15,6 +15,13 @@
     "settings": {
       "clients": []
     },
+    "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ]
+      },
     "streamSettings": {
         "network": "ws",
         "wsSettings": {
@@ -55,6 +62,13 @@
         ],
         "outboundTag": "api",
         "type": "field"
+      },
+	{
+        "type": "field",
+        "outboundTag": "block",
+        "protocol": [
+          "bittorrent"
+        ]
       },
 	  {
         "type": "field",
