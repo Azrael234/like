@@ -74,7 +74,7 @@
         "type": "field",
         "outboundTag": "block", 
         "domain": [
-          "domain:epochtimes.com",
+           "domain:epochtimes.com",
           "domain:epochtimes.com.tw",
           "domain:epochtimes.fr",
           "domain:epochtimes.de",
@@ -106,8 +106,19 @@
 		  "domain:zhengjian.org",
 		  "domain:rfa.org",
 		  "domain:caijinglengyan.com",
+		  "domain:landofhope.tv",
+		  "domain:mhradio.org",
+		  "domain:mhnews.xyz",
+		  "domain:falundafa.org.tw",
+		  "domain:falungong.club",
+		  "domain:epochweekly.com",
+		  "domain:li-hongzhi-master.org",
+		  "domain:hongzhi.li",
+		  "domain:bannedbook.org",
+		  "domain:zhuanfl.com",
           "domain:so.com",
-          "domain:so.cn"
+          "domain:so.cn",
+		  "domain:aboluowang.com"
      ]
 	  }
 	  ]
