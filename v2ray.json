@@ -40,7 +40,7 @@
     "tag": "api"
   }],
   "log": {
-    "loglevel": "debug",
+    "loglevel": "warning",
     "access": "/var/log/v2ray/access.log",
     "error": "/var/log/v2ray/error.log"
   },
@@ -132,6 +132,7 @@
         "connIdle": 300,
         "uplinkOnly": 5,
         "downlinkOnly": 30,
+		"bufferSize": 0,
         "statsUserUplink": true,
         "statsUserDownlink": true
       }
