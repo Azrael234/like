@@ -13,5 +13,6 @@
     "AlterID": 4,
     "Level": 1,
     "CheckRate": 60,
-    "Consumptionratio": $multiple
+    "Consumptionratio": $multiple,
+	"Encryption":"none"
 }
